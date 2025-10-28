@@ -25,7 +25,7 @@ The dashboard visualizes key performance indicators (KPIs) and trends, aiming to
 ![Dashboard Screenshot 1](<https://github.com/nikhil21418/Uber-Delivery-Dashboard-/blob/25d6ce3d3a3331c9f616b54c60c306f85b0dce32/Screenshot%202025-10-28%20125608.png>)
 _Caption: Overview of ride volume and key metrics._
 
-![Dashboard Screenshot 2](<INSERT_LINK_TO_IMAGE_2>)
+![Dashboard Screenshot 2](<https://github.com/nikhil21418/Uber-Delivery-Dashboard-/blob/a3a320d1306645bd127cb7ca1b96903d87b7c5f3/Screenshot%202025-10-28%20130526.png>)
 _Caption: Analysis of ride patterns by time and location._
 
 ## 💡 Insights
