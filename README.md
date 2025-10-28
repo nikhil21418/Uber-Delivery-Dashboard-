@@ -22,7 +22,7 @@ The dashboard visualizes key performance indicators (KPIs) and trends, aiming to
 
 *(**Important:** Add screenshots of your Power BI dashboard visuals here!)*
 
-![Dashboard Screenshot 1](<INSERT_LINK_TO_IMAGE_1>)
+![Dashboard Screenshot 1](<https://github.com/nikhil21418/Uber-Delivery-Dashboard-/blob/25d6ce3d3a3331c9f616b54c60c306f85b0dce32/Screenshot%202025-10-28%20125608.png>)
 _Caption: Overview of ride volume and key metrics._
 
 ![Dashboard Screenshot 2](<INSERT_LINK_TO_IMAGE_2>)
